@@ -1,1 +1,10 @@
 /* CSS1.css */
+
+* {
+	background-color: black;
+}
+
+h3 {
+	color: white;
+}
+[출처] 소스트리, 깃허브(Github) 활용 튜토리얼 6 - 브랜치(branch)-1|작성자 징노
